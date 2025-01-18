@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeeta-vishwakarma" alt="sangeeta-vishwakarma" /></a> </p>
 
-- 🔭 I’m currently working on [Employee Turnover Prediction](https://github.com/Sangeeta-vishwakarma/data-analysis-with-excel)
+- 🔭 I’m currently working on [Employee Turnover Analysis](https://github.com/Sangeeta-vishwakarma/data-analysis-with-excel)
 
 - 🌱 I’m currently learning **Data Analysis with Excel📈**
 
