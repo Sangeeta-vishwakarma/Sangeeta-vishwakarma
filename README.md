@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta-vishwakarma](https://github.com/Sangeeta-vishwakarma)
 
-- 💬 Ask me about **Python, SQL, Power BI 📊**
+- 💬 Ask me about **Python, SQL, Power BI 📊, MS-Excel**
 
 - 📫 How to reach me **sangeeta.vishwa99@gmail.com**
 
