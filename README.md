@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeeta-vishwakarma" alt="sangeeta-vishwakarma" /></a> </p>
 
-- 🔭 I’m currently working on [End-to-end project on Data Analysis](https://github.com/Sangeeta-vishwakarma/End-to-end-project-for-Data-Analysis)
+- 🔭 I’m currently working on [ Data Analysis with Python](https://github.com/Sangeeta-vishwakarma/Data-Analysis-Python)
 
-- 🌱 I’m currently learning **Data Analysis with Excel📈**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta-vishwakarma](https://github.com/Sangeeta-vishwakarma)
 
