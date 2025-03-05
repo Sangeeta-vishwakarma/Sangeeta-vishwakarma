@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ Data Analysis with Python](https://github.com/Sangeeta-vishwakarma/Data-Analysis-Python)
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **AI-ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sangeeta-vishwakarma](https://github.com/Sangeeta-vishwakarma)
 
