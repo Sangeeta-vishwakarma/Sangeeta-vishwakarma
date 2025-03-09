@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeeta-vishwakarma" alt="sangeeta-vishwakarma" /></a> </p>
 
-- 🔭 I’m currently working on [ Data Analysis with Python](https://github.com/Sangeeta-vishwakarma/Data-Analysis-Python)
+- 🔭 I’m currently working on [ Machine Learning Algorithm](https://www.kaggle.com/code/sangeetavishwakarma/laptop-price-predictor)
 
 - 🌱 I’m currently learning **AI-ML**
 
