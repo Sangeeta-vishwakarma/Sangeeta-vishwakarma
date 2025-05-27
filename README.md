@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sangeeta.vishwa99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1knc_Awr0BKjtjn-r4o57vTYWJmjF8OYw/view?usp=drive_link](https://drive.google.com/file/d/1uI7vsiZK0Ck0GErqwyTZKrhAvAHIXapE/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1knc_Awr0BKjtjn-r4o57vTYWJmjF8OYw/view?usp=drive_link](https://drive.google.com/drive/u/1/my-drive)
 
 - ⚡ Fun fact **Love everything about art 🎨🖌️**
 
